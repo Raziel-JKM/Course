@@ -1,5 +1,4 @@
-# Lecture
 courses related to machine learning and deep learning
 
-Lecture list
+# Lecture
 Neural Networks and Deep Learning
