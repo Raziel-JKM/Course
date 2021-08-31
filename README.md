@@ -17,9 +17,9 @@ Lecture list
 * AI For Everyone
 
 # Elice
-* AI 실무 기본 과정
-* AI 실무 응용 과정
-* 한국 표준 협회
+* AI 실무 기본 과정 -                 [Certification]()
+* AI 실무 응용 과정 -                 [Certification]()
+* 한국 표준 협회 -                 [Certification]()
 
 # Python
 
