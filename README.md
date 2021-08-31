@@ -14,6 +14,7 @@ Lecture list
 * Sequence Models
 
 * Structuring Machine Learning Projects
+* AI For Everyone
 
 # Python
 
