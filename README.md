@@ -19,7 +19,7 @@ Lecture list
 # Elice
 * AI 실무 기본 과정
 * AI 실무 응용 과정
-* 
+* 한국 표준 협회
 
 # Python
 
