@@ -11,7 +11,7 @@ Lecture list
 * Structuring Machine Learning Projects
 * AI For Everyone
 
-# 
+# 정보산업진
 
 * AI 실무 기본 과정 -                 [Certification]()
 * AI 실무 응용 과정 -                 [Certification]()
