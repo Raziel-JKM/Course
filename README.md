@@ -3,7 +3,7 @@ Lecture list
 
 # [DeepLearning.AI](https://www.coursera.org/)
 
-* Neural Networks and Deep Learning - [progress]
+* Neural Networks and Deep Learning - progress
 * Convolutional Neural Networks
 * Improving Deep Neural Networks
 * Neural Networks and Deep Learning
@@ -27,4 +27,4 @@ Lecture list
 * Learning the basics of artificial intelligence - [Certificate](http://www.boostcourse.org/certificate/A20210617-714117?langCode=en)
 * DataLit : - [Certificate](http://www.boostcourse.org/certificate/A20210528-063264?langCode=en)
 * Machine Learning with Python - [Certificate](http://www.boostcourse.org/certificate/A20210902-319073?langCode=en)
-* Deep Learning Starting with Pytorch - [progress]
+* Deep Learning Starting with Pytorch - progress / [git](https://github.com/deeplearningzerotoall/PyTorch)
