@@ -27,4 +27,5 @@ Lecture list
 * Learning the basics of artificial intelligence - [Certificate](http://www.boostcourse.org/certificate/A20210617-714117?langCode=en)
 * DataLit : - [Certificate](http://www.boostcourse.org/certificate/A20210528-063264?langCode=en)
 * Machine Learning with Python - [Certificate](http://www.boostcourse.org/certificate/A20210902-319073?langCode=en)
-* Deep Learning Starting with Pytorch - progress / [git](https://github.com/deeplearningzerotoall/PyTorch)
+* Deep Learning Starting with Pytorch - [progress](https://www.boostcourse.org/ai214/joinLectures/25076) / [git](https://github.com/deeplearningzerotoall/PyTorch)
+* 인공지능 코딩을 위한 실용 파이썬 - [progress](https://www.edwith.org/python4ai/joinLectures/47074) 
