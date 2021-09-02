@@ -3,7 +3,7 @@ Lecture list
 
 # [DeepLearning.AI](https://www.coursera.org/)
 
-* Neural Networks and Deep Learning
+* Neural Networks and Deep Learning - [progress]
 * Convolutional Neural Networks
 * Improving Deep Neural Networks
 * Neural Networks and Deep Learning
