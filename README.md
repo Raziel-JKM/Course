@@ -1,6 +1,3 @@
-
-Lecture list
-
 # [DeepLearning.AI](https://www.coursera.org/)
 
 * Neural Networks and Deep Learning - progress
