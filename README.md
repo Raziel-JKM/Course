@@ -31,4 +31,4 @@ Lecture list
 * 인공지능 코딩을 위한 실용 파이썬 - [progress](https://www.edwith.org/python4ai/joinLectures/47074) 
 
 # [MOOC]
-[Finance AI](https://github.com/Raziel-JKM/Finance_AI)
+* [Finance AI](https://github.com/Raziel-JKM/Finance_AI)
