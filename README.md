@@ -30,4 +30,4 @@
 
 # MOOC
 * [Finance AI](https://github.com/Raziel-JKM/Finance_AI)
-* [Time series analysis technique](https://github.com/Raziel-JKM/TimeSeriesAnalysis-Technique)
+* [Time Series Analysis Technique](https://github.com/Raziel-JKM/TimeSeriesAnalysis-Technique)
