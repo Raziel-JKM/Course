@@ -29,5 +29,7 @@
 * 인공지능 코딩을 위한 실용 파이썬 - [progress](https://www.edwith.org/python4ai/joinLectures/47074) 
 
 # MOOC
-* [Finance AI](https://github.com/Raziel-JKM/Finance_AI)
+* [Finance AI](https://github.com/Raziel-JKM/Finance_AI) - [Certificate]()
 * [Time Series Analysis Technique](https://github.com/Raziel-JKM/TimeSeriesAnalysis-Technique)
+* [Understanding the mathematical basics and algorithms of reinforcement learning
+](https://github.com/Raziel-JKM/Understanding-the-mathematical-basics-and-algorithms-of-reinforcement-learning)
