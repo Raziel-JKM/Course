@@ -7,7 +7,8 @@
 * Sequence Models
 * Structuring Machine Learning Projects
 * AI For Everyone
-
+## 
+* [CS231n](https://github.com/Raziel-JKM/cs231n)
 
 # [Python](https://www.coursera.org/)
 
