@@ -19,7 +19,7 @@
 
 * AI 실무 기본 과정 -                 [Certificate](https://drive.google.com/file/d/1nK26JI7XQTfNhK0H0w4LFr2uHNInO3KD/view?usp=sharing)
 * AI 실무 응용 과정 -                 [Certificate](https://drive.google.com/file/d/1FQJx8cRDNkiwin4c7R1MdqaThs8P1Yxl/view?usp=sharing)
-* [한국 표준 협회](https://www.ksa.or.kr/intro.do) -                 [Certificate]()
+* [한국 표준 협회](https://www.ksa.or.kr/intro.do) -                 [Certificate](https://drive.google.com/file/d/1ou7hlH9FFWKc7h79eEKJ8IuO-eDlSUZe/view?usp=sharing)
 
 # [Edwith](https://www.edwith.org/)
 * Learning the basics of artificial intelligence - [Certificate](http://www.boostcourse.org/certificate/A20210617-714117?langCode=en)
