@@ -10,7 +10,7 @@
 ## 
 * [CS231n](https://github.com/Raziel-JKM/cs231n)
 
-# [Python](https://www.coursera.org/)
+# [Coursera](https://www.coursera.org/)
 
 * Programming for Everybody -                 [Certificate](https://coursera.org/share/9075864e013fd42a699ba31dd08b268e)
 * Python Data Structures -                      [Certificate](https://coursera.org/share/672796b707cbd4b93c8b95a70a1b3256)
